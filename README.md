@@ -21,7 +21,7 @@ This project was done as part of a Data Analytics Internship Task. The focus was
 
 # Output:
 - OnlineRetail Dashboard.pbix - Main Power BI file with Dashboard
-- Dashboard Screenshot
+- Dashboard Screenshot <img width="1208" height="677" alt="Future_DS_01 Dashboard Screenshot " src="https://github.com/user-attachments/assets/756ed976-0c29-405e-93aa-79729f5010f3" />
 
 # Author:
 -Ruchika Sandolkar
